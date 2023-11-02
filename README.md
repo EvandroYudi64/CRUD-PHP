@@ -1,2 +1,2 @@
 # CRUD-PHP
-Mini projeto CRUD com carrinho de compras em PHP 
+Mini projeto CRUD com carrinho de compras em PHP e Postgres
